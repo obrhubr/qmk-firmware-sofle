@@ -1,3 +1,5 @@
+# I DID NOT CREATE THE FIRMWARE FOR THIS, ONLY THE customSOFLE KEYMAP IS MINE!
+
 # Sofle Keyboard
 
 ![SofleKeyboard version 1](https://raw.githubusercontent.com/josefadamcik/SofleKeyboard/master/Images/IMG_20200126_114622.jpg)
